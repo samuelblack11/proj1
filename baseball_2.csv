@@ -1,0 +1,331 @@
+,Rk,Year,Tm,Lg,G,W,L,Ties,W.L.,pythW.L.,Finish,GB,Playoffs,R,RA, Attendance ,BatAge,PAge,X.Bat,X.P,Top.Player,War,Managers,current
+1,1,2016,Arizona Diamondbacks,NL West,162,69,93,0,0.426,0.424,4th of 5,22,,752,890,2036216,26.7,26.4,50,29,J.Segura ,5.7,C.Hale (69-93),Arizona Diamondbacks
+2,2,2015,Arizona Diamondbacks,NL West,162,79,83,0,0.488,0.504,3rd of 5,13,,720,713,2080145,26.6,27.1,50,27,P.Goldschmidt ,8.8,C.Hale (79-83),Arizona Diamondbacks
+3,3,2014,Arizona Diamondbacks,NL West,162,64,98,0,0.395,0.415,5th of 5,30,,615,742,2073730,27.6,28,52,25,P.Goldschmidt ,4.5,K.Gibson (63-96) and A.Trammell (1-2),Arizona Diamondbacks
+4,4,2013,Arizona Diamondbacks,NL West,162,81,81,0,0.5,0.493,2nd of 5,11,,685,695,2134895,28.1,27.6,44,23,P.Goldschmidt ,7.1,K.Gibson (81-81),Arizona Diamondbacks
+5,5,2012,Arizona Diamondbacks,NL West,162,81,81,0,0.5,0.53,3rd of 5,13,,734,688,2177617,28.3,27.4,48,23,A.Hill ,5,K.Gibson (81-81),Arizona Diamondbacks
+6,6,2011,Arizona Diamondbacks,NL West,162,94,68,0,0.58,0.545,1st of 5,--,Lost LDS (3-2),731,662,2105432,28.2,27.4,51,25,J.Upton ,6.1,K.Gibson (94-68),Arizona Diamondbacks
+7,7,2010,Arizona Diamondbacks,NL West,162,65,97,0,0.401,0.428,5th of 5,27,,713,836,2056697,26.8,27.9,48,28,C.Young ,5.4,A.Hinch (31-48) and K.Gibson (34-49),Arizona Diamondbacks
+8,8,2009,Arizona Diamondbacks,NL West,162,70,92,0,0.432,0.462,5th of 5,25,,720,782,2128765,26.5,27.7,45,24,D.Haren ,7.1,B.Melvin (12-17) and A.Hinch (58-75),Arizona Diamondbacks
+9,9,2008,Arizona Diamondbacks,NL West,162,82,80,0,0.506,0.509,2nd of 5,2,,720,706,2509924,26.7,29.4,41,20,D.Haren ,6.6,B.Melvin (82-80),Arizona Diamondbacks
+10,10,2007,Arizona Diamondbacks,NL West,162,90,72,0,0.556,0.487,1st of 5,--,Lost NLCS (4-0),712,732,2325249,26.6,28.2,47,26,B.Webb ,5.9,B.Melvin (90-72),Arizona Diamondbacks
+11,11,2006,Arizona Diamondbacks,NL West,162,76,86,0,0.469,0.491,4th of 5,12,,773,788,2091685,29.6,28.8,45,25,B.Webb ,7,B.Melvin (76-86),Arizona Diamondbacks
+20,1,2016,Atlanta Braves,NL East,161,68,93,0,0.422,0.417,5th of 5,26.5,,649,779,2020914,28.9,26.4,60,35,F.Freeman ,6.5,F.Gonzalez (9-28) and B.Snitker (59-65),Atlanta Braves
+21,2,2015,Atlanta Braves,NL East,162,67,95,0,0.414,0.374,4th of 5,23,,573,760,2001392,28.8,26.6,60,37,A.Simmons ,4,F.Gonzalez (67-95),Atlanta Braves
+22,3,2014,Atlanta Braves,NL East,162,79,83,0,0.488,0.481,2nd of 5,17,,573,597,2354305,26.8,27.3,39,20,J.Heyward ,6.2,F.Gonzalez (79-83),Atlanta Braves
+23,4,2013,Atlanta Braves,NL East,162,96,66,0,0.593,0.603,1st of 5,--,Lost LDS (3-1),688,548,2548679,26.8,27.2,44,21,A.Simmons ,7,F.Gonzalez (96-66),Atlanta Braves
+24,5,2012,Atlanta Braves,NL East,162,94,68,0,0.58,0.57,2nd of 5,4,Lost NLWC (1-0),700,600,2420171,28.5,27.6,41,21,M.Bourn ,6.1,F.Gonzalez (94-68),Atlanta Braves
+25,6,2011,Atlanta Braves,NL East,162,89,73,0,0.549,0.526,2nd of 5,13,,641,605,2372940,28.9,28.4,45,21,E.O'Flaherty ,3.4,F.Gonzalez (89-73),Atlanta Braves
+26,7,2010,Atlanta Braves,NL East,162,91,71,0,0.562,0.573,2nd of 5,6,Lost LDS (3-1),738,629,2510119,28.6,30.1,43,21,J.Heyward ,6.4,B.Cox (91-71),Atlanta Braves
+27,8,2009,Atlanta Braves,NL East,162,86,76,0,0.531,0.562,3rd of 5,7,,735,641,2373631,28.8,28.9,45,21,J.Jurrjens ,6.8,B.Cox (86-76),Atlanta Braves
+28,9,2008,Atlanta Braves,NL East,162,72,90,0,0.444,0.485,4th of 5,20,,753,778,2532834,27.2,28.6,49,28,C.Jones ,7.3,B.Cox (72-90),Atlanta Braves
+29,10,2007,Atlanta Braves,NL East,162,84,78,0,0.519,0.546,3rd of 5,5,,810,733,2745207,27.7,29.4,50,28,C.Jones ,7.6,B.Cox (84-78),Atlanta Braves
+30,11,2006,Atlanta Braves,NL East,162,79,83,0,0.488,0.524,3rd of 5,18,,849,805,2550524,27.5,29.4,45,26,J.Smoltz ,5.9,B.Cox (79-83),Atlanta Braves
+161,1,2016,Baltimore Orioles,AL East,162,89,73,0,0.549,0.518,2nd of 5,4,Lost ALWC (1-0),744,715,2172344,28.4,27.9,40,27,M.Machado ,6.7,B.Showalter (89-73),Baltimore Orioles
+162,2,2015,Baltimore Orioles,AL East,162,81,81,0,0.5,0.513,3rd of 5,12,,713,693,2281202,27.9,28.3,48,22,M.Machado ,7.1,B.Showalter (81-81),Baltimore Orioles
+163,3,2014,Baltimore Orioles,AL East,162,96,66,0,0.593,0.578,1st of 5,--,Lost ALCS (4-0),705,593,2464473,28.3,27.7,44,20,S.Pearce ,5.9,B.Showalter (96-66),Baltimore Orioles
+164,4,2013,Baltimore Orioles,AL East,162,85,77,0,0.525,0.523,3rd of 5,12,,745,709,2357561,27.8,27.9,52,26,M.Machado ,6.7,B.Showalter (85-77),Baltimore Orioles
+165,5,2012,Baltimore Orioles,AL East,162,93,69,0,0.574,0.505,2nd of 5,2,Lost LDS (3-2),712,705,2102240,28,27.6,52,26,A.Jones ,3.8,B.Showalter (93-69),Baltimore Orioles
+166,6,2011,Baltimore Orioles,AL East,162,69,93,0,0.426,0.412,5th of 5,28,,708,860,1755461,28.3,28.2,50,27,M.Wieters ,4.9,B.Showalter (69-93),Baltimore Orioles
+167,7,2010,Baltimore Orioles,AL East,162,66,96,0,0.407,0.389,5th of 5,30,,613,785,1733019,28.7,28.4,45,23,J.Guthrie ,4.7,"D.Trembley (15-39), J.Samuel (17-34) and B.Showalter (34-23)",Baltimore Orioles
+168,8,2009,Baltimore Orioles,AL East,162,64,98,0,0.395,0.424,5th of 5,39,,741,876,1907163,28.7,28.1,48,27,B.Bergesen ,3.3,D.Trembley (64-98),Baltimore Orioles
+169,9,2008,Baltimore Orioles,AL East,161,68,93,0,0.422,0.452,5th of 5,28.5,,782,869,1950075,30,27.9,46,26,N.Markakis ,7.4,D.Trembley (68-93),Baltimore Orioles
+170,10,2007,Baltimore Orioles,AL East,162,69,93,0,0.426,0.437,4th of 5,27,,756,868,2164822,30.4,29,49,27,E.Bedard ,5.8,S.Perlozzo (29-40) and D.Trembley (40-53),Baltimore Orioles
+171,11,2006,Baltimore Orioles,AL East,162,70,92,0,0.432,0.428,4th of 5,27,,768,899,2153139,30.3,27.9,46,24,M.Tejada ,4.5,S.Perlozzo (70-92),Baltimore Orioles
+277,1,2016,Boston Red Sox,AL East,162,93,69,0,0.574,0.606,1st of 5,--,Lost LDS (3-0),878,694,2955434,28.6,29,43,25,M.Betts ,9.6,J.Farrell (93-69),Boston Red Sox
+278,2,2015,Boston Red Sox,AL East,162,78,84,0,0.481,0.497,5th of 5,15,,748,753,2880694,28.4,28.6,51,26,M.Betts ,6,J.Farrell (78-84),Boston Red Sox
+279,3,2014,Boston Red Sox,AL East,162,71,91,0,0.438,0.445,5th of 5,25,,634,715,2956089,29.3,29.9,55,25,D.Pedroia ,4.9,J.Farrell (71-91),Boston Red Sox
+280,4,2013,Boston Red Sox,AL East,162,97,65,0,0.599,0.618,1st of 5,--,Won WS (4-2),853,656,2833333,29.7,30.2,48,26,D.Pedroia ,6.3,J.Farrell (97-65),Boston Red Sox
+281,5,2012,Boston Red Sox,AL East,162,69,93,0,0.426,0.457,5th of 5,26,,734,806,3043003,29.4,28.7,56,26,D.Pedroia ,5.1,B.Valentine (69-93),Boston Red Sox
+282,6,2011,Boston Red Sox,AL East,162,90,72,0,0.556,0.578,3rd of 5,7,,875,737,3054001,30,30.3,49,27,J.Ellsbury ,8.1,T.Francona (90-72),Boston Red Sox
+283,7,2010,Boston Red Sox,AL East,162,89,73,0,0.549,0.543,3rd of 5,7,,818,744,3046445,30.8,29.6,53,25,A.Beltre ,7.8,T.Francona (89-73),Boston Red Sox
+284,8,2009,Boston Red Sox,AL East,162,95,67,0,0.586,0.577,2nd of 5,8,Lost LDS (3-0),872,736,3062699,30,29.8,52,27,K.Youkilis ,6.6,T.Francona (95-67),Boston Red Sox
+285,9,2008,Boston Red Sox,AL East,162,95,67,0,0.586,0.589,2nd of 5,2,Lost ALCS (4-3),845,694,3048250,29.8,29.2,47,23,D.Pedroia ,6.9,T.Francona (95-67),Boston Red Sox
+286,10,2007,Boston Red Sox,AL East,162,96,66,0,0.593,0.624,1st of 5,--,Won WS (4-0),867,657,2970755,30.2,31.1,40,20,J.Beckett ,6.6,T.Francona (96-66),Boston Red Sox
+287,11,2006,Boston Red Sox,AL East,162,86,76,0,0.531,0.497,3rd of 5,11,,820,825,2930588,30.5,31.1,53,28,D.Ortiz ,5.7,T.Francona (86-76),Boston Red Sox
+393,1,2016,Chicago Cubs,NL Central,162,103,58,1,0.64,0.665,1st of 5,--,Won WS (4-3),808,556,3232420,27.5,29.9,45,26,K.Bryant ,7.7,J.Maddon (103-58),Chicago Cubs
+394,2,2015,Chicago Cubs,NL Central,162,97,65,0,0.599,0.557,3rd of 5,3,Lost NLCS (4-0),689,608,2919122,26.9,29.3,50,29,J.Arrieta ,9,J.Maddon (97-65),Chicago Cubs
+395,3,2014,Chicago Cubs,NL Central,162,73,89,0,0.451,0.436,5th of 5,17,,614,707,2652113,26.8,28,48,27,J.Arrieta ,5.6,R.Renteria (73-89),Chicago Cubs
+396,4,2013,Chicago Cubs,NL Central,162,66,96,0,0.407,0.439,5th of 5,31,,602,689,2642682,27.9,28.7,56,31,T.Wood ,5.2,D.Sveum (66-96),Chicago Cubs
+397,5,2012,Chicago Cubs,NL Central,162,61,101,0,0.377,0.403,5th of 6,36,,613,759,2882756,27.8,27.9,53,30,D.Barney ,4.6,D.Sveum (61-101),Chicago Cubs
+398,6,2011,Chicago Cubs,NL Central,162,71,91,0,0.438,0.434,5th of 6,25,,654,756,3017966,29.3,29.4,42,22,S.Castro ,3,M.Quade (71-91),Chicago Cubs
+399,7,2010,Chicago Cubs,NL Central,162,75,87,0,0.463,0.448,5th of 6,16,,685,767,3062973,29.4,28.2,44,23,M.Byrd ,3.7,L.Piniella (51-74) and M.Quade (24-13),Chicago Cubs
+400,8,2009,Chicago Cubs,NL Central,161,83,78,0,0.516,0.523,2nd of 6,7.5,,707,672,3168859,29.9,28.4,45,24,D.Lee ,5.4,L.Piniella (83-78),Chicago Cubs
+401,9,2008,Chicago Cubs,NL Central,161,97,64,0,0.602,0.609,1st of 6,--,Lost LDS (3-0),855,671,3300200,30.1,28.9,42,23,R.Dempster ,6.9,L.Piniella (97-64),Chicago Cubs
+402,10,2007,Chicago Cubs,NL Central,162,85,77,0,0.525,0.539,1st of 6,--,Lost LDS (3-0),752,690,3252462,29.3,28.4,47,22,A.Ramirez ,5.2,L.Piniella (85-77),Chicago Cubs
+403,11,2006,Chicago Cubs,NL Central,162,66,96,0,0.407,0.431,6th of 6,17.5,,716,834,3123215,28.6,28,46,23,C.Zambrano ,5.8,D.Baker (66-96),Chicago Cubs
+534,1,2016,Chicago White Sox,AL Central,162,78,84,0,0.481,0.481,4th of 5,16.5,,686,715,1746293,28.3,28.6,43,28,A.Eaton ,6.2,R.Ventura (78-84),Chicago White Sox
+535,2,2015,Chicago White Sox,AL Central,162,76,86,0,0.469,0.446,4th of 5,19,,622,701,1755810,28.2,27.8,40,24,A.Eaton ,3.9,R.Ventura (76-86),Chicago White Sox
+536,3,2014,Chicago White Sox,AL Central,162,73,89,0,0.451,0.437,4th of 5,17,,660,758,1650821,27.7,27.4,44,26,C.Sale ,6.6,R.Ventura (73-89),Chicago White Sox
+537,4,2013,Chicago White Sox,AL Central,162,63,99,0,0.389,0.414,5th of 5,30,,598,723,1768413,29.2,27.1,47,24,C.Sale ,7,R.Ventura (63-99),Chicago White Sox
+538,5,2012,Chicago White Sox,AL Central,162,85,77,0,0.525,0.546,2nd of 5,3,,748,676,1965955,29.9,27.5,45,25,C.Sale ,5.9,R.Ventura (85-77),Chicago White Sox
+539,6,2011,Chicago White Sox,AL Central,162,79,83,0,0.488,0.465,3rd of 5,16,,654,706,2001117,29.9,28.5,42,22,M.Buehrle ,3.8,O.Guillen (78-82) and D.Cooper (1-1),Chicago White Sox
+540,7,2010,Chicago White Sox,AL Central,162,88,74,0,0.543,0.53,2nd of 5,6,,752,704,2194378,30.6,29,40,20,A.Ramirez ,5.6,O.Guillen (88-74),Chicago White Sox
+541,8,2009,Chicago White Sox,AL Central,162,79,83,0,0.488,0.495,3rd of 5,7.5,,724,732,2284163,29.8,29.5,45,24,M.Buehrle ,5.4,O.Guillen (79-83),Chicago White Sox
+542,9,2008,Chicago White Sox,AL Central,163,89,74,0,0.546,0.549,1st of 5,--,Lost LDS (3-1),811,729,2500648,30.5,28.3,39,19,J.Danks ,6.4,O.Guillen (89-74),Chicago White Sox
+543,10,2007,Chicago White Sox,AL Central,162,72,90,0,0.444,0.413,4th of 5,24,,693,839,2684395,29.6,27.7,43,21,J.Vazquez ,6.1,O.Guillen (72-90),Chicago White Sox
+544,11,2006,Chicago White Sox,AL Central,162,90,72,0,0.556,0.541,3rd of 5,6,,868,794,2957414,29.6,27.9,37,18,J.Thome ,4.9,O.Guillen (90-72),Chicago White Sox
+650,1,2016,Cincinnati Reds,NL Central,162,68,94,0,0.42,0.42,5th of 5,35.5,,716,854,1894085,27.8,27.1,52,32,J.Votto ,4,B.Price (68-94),Cincinnati Reds
+651,2,2015,Cincinnati Reds,NL Central,162,64,98,0,0.395,0.426,5th of 5,36,,640,754,2419506,29.5,27.3,50,28,J.Votto ,7.6,B.Price (64-98),Cincinnati Reds
+652,3,2014,Cincinnati Reds,NL Central,162,76,86,0,0.469,0.487,4th of 5,14,,595,612,2476664,29,28,45,25,J.Cueto ,6.4,B.Price (76-86),Cincinnati Reds
+653,4,2013,Cincinnati Reds,NL Central,162,90,72,0,0.556,0.577,3rd of 5,7,Lost NLWC (1-0),698,589,2492101,28.5,27.7,39,20,J.Votto ,6.6,D.Baker (90-72),Cincinnati Reds
+654,5,2012,Cincinnati Reds,NL Central,162,97,65,0,0.599,0.559,1st of 6,--,Lost LDS (3-2),669,588,2347251,28.8,27.1,38,17,J.Votto ,5.9,D.Baker (97-65),Cincinnati Reds
+655,6,2011,Cincinnati Reds,NL Central,162,79,83,0,0.488,0.509,3rd of 6,17,,735,720,2213588,28.6,27.7,42,21,J.Votto ,6.3,D.Baker (79-83),Cincinnati Reds
+656,7,2010,Cincinnati Reds,NL Central,162,91,71,0,0.562,0.565,1st of 6,--,Lost LDS (3-0),790,685,2060550,29,28.2,44,23,J.Votto ,6.9,D.Baker (91-71),Cincinnati Reds
+657,8,2009,Cincinnati Reds,NL Central,162,78,84,0,0.481,0.467,4th of 6,13,,673,723,1747919,27.9,29,46,22,J.Votto ,4.8,D.Baker (78-84),Cincinnati Reds
+658,9,2008,Cincinnati Reds,NL Central,162,74,88,0,0.457,0.442,5th of 6,23.5,,704,800,2058632,28.6,28.7,48,23,E.Volquez ,4.6,D.Baker (74-88),Cincinnati Reds
+659,10,2007,Cincinnati Reds,NL Central,162,72,90,0,0.444,0.461,5th of 6,13,,783,853,2058593,29.7,29.1,51,25,A.Harang ,5.5,J.Narron (31-51) and P.Mackanin (41-39),Cincinnati Reds
+660,11,2006,Cincinnati Reds,NL Central,162,80,82,0,0.494,0.469,3rd of 6,3.5,,749,801,2134607,29.6,29.5,54,29,B.Arroyo ,7,J.Narron (80-82),Cincinnati Reds
+785,1,2016,Cleveland Indians,AL Central,161,94,67,0,0.584,0.563,1st of 5,--,Lost WS (4-3),777,676,1591667,29,28.1,39,27,C.Kluber ,6.5,T.Francona (94-67),Cleveland Indians
+786,2,2015,Cleveland Indians,AL Central,161,81,80,0,0.503,0.52,3rd of 5,13.5,,669,640,1388905,28,27.3,49,27,F.Lindor ,4.6,T.Francona (81-80),Cleveland Indians
+787,3,2014,Cleveland Indians,AL Central,162,85,77,0,0.525,0.511,3rd of 5,5,,669,653,1437393,28.5,27.2,46,22,C.Kluber ,7.4,T.Francona (85-77),Cleveland Indians
+788,4,2013,Cleveland Indians,AL Central,162,92,70,0,0.568,0.554,2nd of 5,1,Lost ALWC (1-0),745,662,1572926,28.6,27.5,49,28,J.Kipnis ,5.7,T.Francona (92-70),Cleveland Indians
+789,5,2012,Cleveland Indians,AL Central,162,68,94,0,0.42,0.393,4th of 5,20,,667,845,1603596,27.8,27.6,48,24,C.Santana ,4,M.Acta (65-91) and S.Alomar (3-3),Cleveland Indians
+790,6,2011,Cleveland Indians,AL Central,162,80,82,0,0.494,0.465,2nd of 5,15,,704,760,1840835,27.8,26.7,46,22,A.Cabrera ,5,M.Acta (80-82),Cleveland Indians
+791,7,2010,Cleveland Indians,AL Central,162,69,93,0,0.426,0.431,4th of 5,25,,646,752,1391644,27.2,26.6,45,22,S.Choo ,5.9,M.Acta (69-93),Cleveland Indians
+792,8,2009,Cleveland Indians,AL Central,162,65,97,0,0.401,0.449,4th of 5,21.5,,773,865,1766242,27.4,27.8,52,29,S.Choo ,5.5,E.Wedge (65-97),Cleveland Indians
+793,9,2008,Cleveland Indians,AL Central,162,81,81,0,0.5,0.526,3rd of 5,7.5,,805,761,2169760,27.7,28.6,49,28,C.Lee ,6.8,E.Wedge (81-81),Cleveland Indians
+794,10,2007,Cleveland Indians,AL Central,162,96,66,0,0.593,0.564,1st of 5,--,Lost ALCS (4-3),811,704,2275912,28.1,29.4,41,21,C.Sabathia ,6.4,E.Wedge (96-66),Cleveland Indians
+795,11,2006,Cleveland Indians,AL Central,162,78,84,0,0.481,0.549,4th of 5,18,,870,782,1997995,27.8,28.6,45,23,G.Sizemore ,6.6,E.Wedge (78-84),Cleveland Indians
+901,1,2016,Colorado Rockies,NL West,162,75,87,0,0.463,0.492,3rd of 5,16,,845,860,2602524,27.8,27.7,47,25,N.Arenado ,6.5,W.Weiss (75-87),Colorado Rockies
+902,2,2015,Colorado Rockies,NL West,162,68,94,0,0.42,0.438,5th of 5,24,,737,844,2506789,28,28.7,51,30,N.Arenado ,5.8,W.Weiss (68-94),Colorado Rockies
+903,3,2014,Colorado Rockies,NL West,162,66,96,0,0.407,0.463,4th of 5,28,,755,818,2680329,27.4,28.5,49,26,T.Tulowitzki ,5.5,W.Weiss (66-96),Colorado Rockies
+904,4,2013,Colorado Rockies,NL West,162,74,88,0,0.457,0.466,5th of 5,18,,706,760,2793828,27.7,28.3,43,23,J.Chacin ,6.1,W.Weiss (74-88),Colorado Rockies
+905,5,2012,Colorado Rockies,NL West,162,64,98,0,0.395,0.427,5th of 5,30,,758,890,2630458,28.1,28.2,49,27,D.Fowler ,2.8,J.Tracy (64-98),Colorado Rockies
+906,6,2011,Colorado Rockies,NL West,162,73,89,0,0.451,0.476,4th of 5,21,,735,774,2909777,28.6,27.7,55,29,T.Tulowitzki ,6.1,J.Tracy (73-89),Colorado Rockies
+907,7,2010,Colorado Rockies,NL West,162,83,79,0,0.512,0.533,3rd of 5,9,,770,717,2875245,28.8,28.1,43,23,U.Jimenez ,7.4,J.Tracy (83-79),Colorado Rockies
+908,8,2009,Colorado Rockies,NL West,162,92,70,0,0.568,0.553,2nd of 5,3,Lost LDS (3-1),804,715,2665080,27.8,28.5,45,25,T.Tulowitzki ,6.5,C.Hurdle (18-28) and J.Tracy (74-42),Colorado Rockies
+909,9,2008,Colorado Rockies,NL West,162,74,88,0,0.457,0.456,3rd of 5,10,,747,822,2650218,27.5,28.5,49,26,M.Holliday ,5.8,C.Hurdle (74-88),Colorado Rockies
+910,10,2007,Colorado Rockies,NL West,163,90,73,0,0.552,0.558,2nd of 5,0.5,Lost WS (4-0),860,758,2376250,27.9,28.1,53,30,T.Tulowitzki ,6.8,C.Hurdle (90-73),Colorado Rockies
+911,11,2006,Colorado Rockies,NL West,162,76,86,0,0.469,0.501,4th of 5,12,,813,812,2104362,27.8,28.8,50,24,G.Atkins ,4.9,C.Hurdle (76-86),Colorado Rockies
+925,1,2016,Detroit Tigers,AL Central,161,86,75,0,0.534,0.518,2nd of 5,8,,750,721,2493859,29.9,29,36,23,J.Verlander ,6.6,B.Ausmus (86-75),Detroit Tigers
+926,2,2015,Detroit Tigers,AL Central,161,74,87,0,0.46,0.43,5th of 5,20.5,,689,803,2726048,28.3,28.7,47,27,I.Kinsler ,6,B.Ausmus (74-87),Detroit Tigers
+927,3,2014,Detroit Tigers,AL Central,162,90,72,0,0.556,0.533,1st of 5,--,Lost LDS (3-0),757,705,2917209,29.7,28.5,48,30,M.Scherzer ,6,B.Ausmus (90-72),Detroit Tigers
+928,4,2013,Detroit Tigers,AL Central,162,93,69,0,0.574,0.61,1st of 5,--,Lost ALCS (4-2),796,624,3083397,29.9,28.4,39,20,M.Cabrera ,7.3,J.Leyland (93-69),Detroit Tigers
+929,5,2012,Detroit Tigers,AL Central,162,88,74,0,0.543,0.537,1st of 5,--,Lost WS (4-0),726,670,3028033,28,28.2,47,23,J.Verlander ,7.7,J.Leyland (88-74),Detroit Tigers
+930,6,2011,Detroit Tigers,AL Central,162,95,67,0,0.586,0.546,1st of 5,--,Lost ALCS (4-2),787,711,2642045,28.6,27.8,45,26,J.Verlander ,8.4,J.Leyland (95-67),Detroit Tigers
+931,7,2010,Detroit Tigers,AL Central,162,81,81,0,0.5,0.505,3rd of 5,13,,751,743,2461237,28.8,26.5,41,20,M.Cabrera ,6.4,J.Leyland (81-81),Detroit Tigers
+932,8,2009,Detroit Tigers,AL Central,163,86,77,0,0.528,0.499,2nd of 5,1,,743,745,2567165,29.7,26.6,45,23,J.Verlander ,5.5,J.Leyland (86-77),Detroit Tigers
+933,9,2008,Detroit Tigers,AL Central,162,74,88,0,0.457,0.48,5th of 5,14.5,,821,857,3202645,30.3,29.9,46,25,P.Polanco ,4.4,J.Leyland (74-88),Detroit Tigers
+934,10,2007,Detroit Tigers,AL Central,162,88,74,0,0.543,0.549,2nd of 5,8,,887,797,3047133,30.8,28.5,44,25,C.Granderson ,7.6,J.Leyland (88-74),Detroit Tigers
+935,11,2006,Detroit Tigers,AL Central,162,95,67,0,0.586,0.589,2nd of 5,1,Lost WS (4-1),822,675,2595937,29.3,28.8,40,19,C.Guillen ,6,J.Leyland (95-67),Detroit Tigers
+1041,1,2016,Houston Astros,AL West,162,84,78,0,0.519,0.515,3rd of 5,11,,724,701,2306623,26.6,28.9,38,23,J.Altuve ,7.7,A.Hinch (84-78),Houston Astros
+1042,2,2015,Houston Astros,AL West,162,86,76,0,0.531,0.575,2nd of 5,2,Lost LDS (3-2),729,618,2153585,26.6,29.4,46,24,D.Keuchel ,7.2,A.Hinch (86-76),Houston Astros
+1043,3,2014,Houston Astros,AL West,162,70,92,0,0.432,0.437,4th of 5,28,,629,723,1751829,25.7,27.9,48,28,J.Altuve ,6.1,B.Porter (59-79) and T.Lawless (11-13),Houston Astros
+1044,4,2013,Houston Astros,AL West,162,51,111,0,0.315,0.354,5th of 5,45,,610,848,1651883,26,27.2,50,26,J.Castro ,4.5,B.Porter (51-111),Houston Astros
+1045,5,2012,Houston Astros,NL Central,162,55,107,0,0.34,0.362,6th of 6,42,,583,794,1607733,26.6,27.2,50,26,L.Harrell ,3,B.Mills (39-82) and T.DeFrancesco (16-25),Houston Astros
+1046,6,2011,Houston Astros,NL Central,162,56,106,0,0.346,0.384,6th of 6,40,,615,796,2067016,28.2,27.2,47,23,C.Lee ,4,B.Mills (56-106),Houston Astros
+1047,7,2010,Houston Astros,NL Central,162,76,86,0,0.469,0.42,4th of 6,15,,611,729,2331490,29.5,29.6,48,25,M.Bourn ,5.5,B.Mills (76-86),Houston Astros
+1048,8,2009,Houston Astros,NL Central,162,74,88,0,0.457,0.418,5th of 6,17,,643,770,2521076,31.6,31.2,42,22,M.Bourn ,5,C.Cooper (70-79) and D.Clark (4-9),Houston Astros
+1049,9,2008,Houston Astros,NL Central,161,86,75,0,0.534,0.481,3rd of 6,11,,712,743,2779487,31.1,30.9,41,20,L.Berkman ,6.8,C.Cooper (86-75),Houston Astros
+1050,10,2007,Houston Astros,NL Central,162,73,89,0,0.451,0.447,4th of 6,12,,723,813,3020405,31.4,30.2,41,21,R.Oswalt ,6.6,P.Garner (58-73) and C.Cooper (15-16),Houston Astros
+1051,11,2006,Houston Astros,NL Central,162,82,80,0,0.506,0.51,2nd of 6,1.5,,735,719,3022763,30.5,29.8,39,19,R.Oswalt ,6.1,P.Garner (82-80),Houston Astros
+1096,1,2016,Kansas City Royals,AL Central,162,81,81,0,0.5,0.476,3rd of 5,13.5,,675,712,2557712,28.6,29.9,36,21,D.Duffy ,4.2,N.Yost (81-81),Kansas City Royals
+1097,2,2015,Kansas City Royals,AL Central,162,95,67,0,0.586,0.555,1st of 5,--,Won WS (4-1),724,641,2708549,29.1,30,45,24,L.Cain ,7.2,N.Yost (95-67),Kansas City Royals
+1098,3,2014,Kansas City Royals,AL Central,162,89,73,0,0.549,0.519,2nd of 5,1,Lost WS (4-3),651,624,1956482,28.3,28.9,48,23,A.Gordon ,6.6,N.Yost (89-73),Kansas City Royals
+1099,4,2013,Kansas City Royals,AL Central,162,86,76,0,0.531,0.534,3rd of 5,7,,648,601,1750754,27,28.9,43,20,A.Gordon ,4.2,N.Yost (86-76),Kansas City Royals
+1100,5,2012,Kansas City Royals,AL Central,162,72,90,0,0.444,0.455,3rd of 5,16,,676,746,1739859,26.1,27.3,46,25,A.Gordon ,6.3,N.Yost (72-90),Kansas City Royals
+1101,6,2011,Kansas City Royals,AL Central,162,71,91,0,0.438,0.48,4th of 5,24,,730,762,1724450,25.8,26.4,42,23,A.Gordon ,7.2,N.Yost (71-91),Kansas City Royals
+1102,7,2010,Kansas City Royals,AL Central,162,67,95,0,0.414,0.399,5th of 5,27,,676,845,1615327,28.8,27.5,46,25,J.Soria ,3.7,T.Hillman (12-23) and N.Yost (55-72),Kansas City Royals
+1103,8,2009,Kansas City Royals,AL Central,162,65,97,0,0.401,0.407,4th of 5,21.5,,686,842,1797891,27.8,28.7,43,23,Z.Greinke ,10.4,T.Hillman (65-97),Kansas City Royals
+1104,9,2008,Kansas City Royals,AL Central,162,75,87,0,0.463,0.444,4th of 5,13.5,,691,781,1578922,28,27.6,43,25,Z.Greinke ,5.4,T.Hillman (75-87),Kansas City Royals
+1105,10,2007,Kansas City Royals,AL Central,162,69,93,0,0.426,0.456,5th of 5,27,,706,778,1616867,27.9,27.1,45,23,G.Meche ,4.1,B.Bell (69-93),Kansas City Royals
+1106,11,2006,Kansas City Royals,AL Central,162,62,100,0,0.383,0.388,5th of 5,34,,757,971,1372638,29.6,27.7,55,31,M.Teahen ,3.7,B.Bell (62-100),Kansas City Royals
+1144,1,2016,Los Angeles Angels of Anaheim,AL West,162,74,88,0,0.457,0.494,4th of 5,21,,717,727,3016142,28.5,28.4,41,30,M.Trout ,10.6,M.Scioscia (74-88),Los Angeles Angels of Anaheim
+1145,2,2015,Los Angeles Angels of Anaheim,AL West,162,85,77,0,0.525,0.49,3rd of 5,3,,661,675,3012765,28.6,28.3,51,24,M.Trout ,9.4,M.Scioscia (85-77),Los Angeles Angels of Anaheim
+1146,3,2014,Los Angeles Angels of Anaheim,AL West,162,98,64,0,0.605,0.593,1st of 5,--,Lost LDS (3-0),773,630,3095935,29.3,28.4,54,31,M.Trout ,7.9,M.Scioscia (98-64),Los Angeles Angels of Anaheim
+1147,4,2013,Los Angeles Angels of Anaheim,AL West,162,78,84,0,0.481,0.498,3rd of 5,18,,733,737,3019505,27.8,29.1,49,26,M.Trout ,9.3,M.Scioscia (78-84),Los Angeles Angels of Anaheim
+1148,5,2012,Los Angeles Angels of Anaheim,AL West,162,89,73,0,0.549,0.542,3rd of 4,5,,767,699,3061770,28.8,30.1,44,23,M.Trout ,10.8,M.Scioscia (89-73),Los Angeles Angels of Anaheim
+1149,6,2011,Los Angeles Angels of Anaheim,AL West,162,86,76,0,0.531,0.524,2nd of 4,10,,667,633,3166321,28.9,28.4,43,21,J.Weaver ,7,M.Scioscia (86-76),Los Angeles Angels of Anaheim
+1150,7,2010,Los Angeles Angels of Anaheim,AL West,162,80,82,0,0.494,0.486,3rd of 4,10,,681,702,3250814,29.6,28.3,46,21,J.Weaver ,5.5,M.Scioscia (80-82),Los Angeles Angels of Anaheim
+1151,8,2009,Los Angeles Angels of Anaheim,AL West,162,97,65,0,0.599,0.568,1st of 4,--,Lost ALCS (4-2),883,761,3240386,29.6,28.6,46,25,C.Figgins ,7.7,M.Scioscia (97-65),Los Angeles Angels of Anaheim
+1152,9,2008,Los Angeles Angels of Anaheim,AL West,162,100,62,0,0.617,0.542,1st of 4,--,Lost LDS (3-1),765,697,3336747,28.9,27.6,41,19,E.Santana ,5,M.Scioscia (100-62),Los Angeles Angels of Anaheim
+1153,10,2007,Los Angeles Angels of Anaheim,AL West,162,94,68,0,0.58,0.553,1st of 4,--,Lost LDS (3-0),822,731,3365632,28.6,28.4,42,18,J.Lackey ,6.2,M.Scioscia (94-68),Los Angeles Angels of Anaheim
+1154,11,2006,Los Angeles Angels of Anaheim,AL West,162,89,73,0,0.549,0.521,2nd of 4,4,,766,732,3406790,28.8,27.9,40,18,J.Weaver ,4.8,M.Scioscia (89-73),Los Angeles Angels of Anaheim
+1200,1,2016,Los Angeles Dodgers,NL West,162,91,71,0,0.562,0.558,1st of 5,--,Lost NLCS (4-2),725,638,3703312,28.9,28.9,55,31,C.Seager ,6.1,D.Roberts (91-71),Los Angeles Dodgers
+1201,2,2015,Los Angeles Dodgers,NL West,162,92,70,0,0.568,0.552,1st of 5,--,Lost LDS (3-2),667,595,3764815,29.5,28.1,55,31,Z.Greinke ,9.9,D.Mattingly (92-70),Los Angeles Dodgers
+1202,3,2014,Los Angeles Dodgers,NL West,162,94,68,0,0.58,0.569,1st of 5,--,Lost LDS (3-1),718,617,3782337,29.3,29.9,49,25,C.Kershaw ,8,D.Mattingly (94-68),Los Angeles Dodgers
+1203,4,2013,Los Angeles Dodgers,NL West,162,92,70,0,0.568,0.55,1st of 5,--,Lost NLCS (4-2),649,582,3743527,30.6,28.1,49,27,C.Kershaw ,8.4,D.Mattingly (92-70),Los Angeles Dodgers
+1204,5,2012,Los Angeles Dodgers,NL West,162,86,76,0,0.531,0.53,2nd of 5,8,,637,597,3324246,30.4,29,50,25,C.Kershaw ,6.6,D.Mattingly (86-76),Los Angeles Dodgers
+1205,6,2011,Los Angeles Dodgers,NL West,161,82,79,0,0.509,0.523,3rd of 5,11.5,,644,612,2935139,29.8,28.6,48,21,M.Kemp ,8.2,D.Mattingly (82-79),Los Angeles Dodgers
+1206,7,2010,Los Angeles Dodgers,NL West,162,80,82,0,0.494,0.483,4th of 5,12,,667,692,3562320,30.2,28.1,49,24,C.Kershaw ,5.1,J.Torre (80-82),Los Angeles Dodgers
+1207,8,2009,Los Angeles Dodgers,NL West,162,95,67,0,0.586,0.61,1st of 5,--,Lost NLCS (4-1),780,611,3761655,29.7,27.8,47,25,M.Kemp ,4.8,J.Torre (95-67),Los Angeles Dodgers
+1208,9,2008,Los Angeles Dodgers,NL West,162,84,78,0,0.519,0.535,1st of 5,--,Lost NLCS (4-1),700,648,3730553,28.5,29.5,46,22,C.Billingsley ,4.5,J.Torre (84-78),Los Angeles Dodgers
+1209,10,2007,Los Angeles Dodgers,NL West,162,82,80,0,0.506,0.505,4th of 5,8,,735,727,3857036,29.7,31.1,45,22,B.Penny ,6.6,G.Little (82-80),Los Angeles Dodgers
+1210,11,2006,Los Angeles Dodgers,NL West,162,88,74,0,0.543,0.54,2nd of 5,--,Lost LDS (3-0),820,751,3758545,29.9,30.4,50,22,D.Lowe ,4.6,G.Little (88-74),Los Angeles Dodgers
+1333,1,2016,Miami Marlins,NL East,161,79,82,0,0.491,0.482,3rd of 5,15.5,,655,682,1712417,28.3,28,52,31,C.Yelich ,5.3,D.Mattingly (79-82),Miami Marlins
+1334,2,2015,Miami Marlins,NL East,162,71,91,0,0.438,0.454,3rd of 5,19,,613,678,1752235,27.9,27.3,51,29,D.Gordon ,4.9,M.Redmond (16-22) and D.Jennings (55-69),Miami Marlins
+1335,3,2014,Miami Marlins,NL East,162,77,85,0,0.475,0.48,4th of 5,19,,645,674,1732283,27.4,26.4,45,25,G.Stanton ,6.5,M.Redmond (77-85),Miami Marlins
+1336,4,2013,Miami Marlins,NL East,162,62,100,0,0.383,0.396,5th of 5,34,,513,646,1586322,27.7,26,53,26,J.Fernandez ,6.7,M.Redmond (62-100),Miami Marlins
+1337,5,2012,Miami Marlins,NL East,162,69,93,0,0.426,0.422,5th of 5,29,,609,724,2219444,28.3,28.8,45,21,G.Stanton ,5.5,O.Guillen (69-93),Miami Marlins
+1338,6,2011,Florida Marlins,NL East,162,72,90,0,0.444,0.447,5th of 5,30,,625,702,1520562,27.4,28,44,22,G.Stanton ,4.1,"E.Rodriguez (32-39), B.Hyde (0-1) and J.McKeon (40-50)",Miami Marlins
+1339,7,2010,Florida Marlins,NL East,162,80,82,0,0.494,0.501,3rd of 5,17,,719,717,1524894,26.9,27.1,57,31,J.Johnson ,6.8,F.Gonzalez (34-36) and E.Rodriguez (46-46),Miami Marlins
+1340,8,2009,Florida Marlins,NL East,162,87,75,0,0.537,0.504,2nd of 5,6,,772,766,1464109,27,26.3,44,27,J.Johnson ,7.4,F.Gonzalez (87-75),Miami Marlins
+1341,9,2008,Florida Marlins,NL East,161,84,77,0,0.522,0.502,3rd of 5,7.5,,770,767,1335076,28,26.6,45,22,H.Ramirez ,6.7,F.Gonzalez (84-77),Miami Marlins
+1342,10,2007,Florida Marlins,NL East,162,71,91,0,0.438,0.445,5th of 5,18,,790,891,1370511,26.7,26.2,50,30,H.Ramirez ,4.3,F.Gonzalez (71-91),Miami Marlins
+1343,11,2006,Florida Marlins,NL East,162,78,84,0,0.481,0.492,4th of 5,19,,758,772,1164134,25.6,25.9,40,21,M.Cabrera ,5.8,J.Girardi (78-84),Miami Marlins
+1357,1,2016,Milwaukee Brewers,NL Central,162,73,89,0,0.451,0.46,4th of 5,30.5,,671,733,2314614,27.5,28.1,50,27,R.Braun ,4.4,C.Counsell (73-89),Milwaukee Brewers
+1358,2,2015,Milwaukee Brewers,NL Central,162,68,94,0,0.42,0.446,4th of 5,32,,655,737,2542558,28.1,28.4,49,26,R.Braun ,3.8,R.Roenicke (7-18) and C.Counsell (61-76),Milwaukee Brewers
+1359,3,2014,Milwaukee Brewers,NL Central,162,82,80,0,0.506,0.495,3rd of 5,8,,650,657,2797384,28.8,29,40,21,J.Lucroy ,6.7,R.Roenicke (82-80),Milwaukee Brewers
+1360,4,2013,Milwaukee Brewers,NL Central,162,74,88,0,0.457,0.468,4th of 5,23,,640,687,2531105,27.9,28.8,40,21,C.Gomez ,8.5,R.Roenicke (74-88),Milwaukee Brewers
+1361,5,2012,Milwaukee Brewers,NL Central,162,83,79,0,0.512,0.526,3rd of 6,14,,776,733,2831385,29.2,29,46,23,R.Braun ,6.9,R.Roenicke (83-79),Milwaukee Brewers
+1362,6,2011,Milwaukee Brewers,NL Central,162,96,66,0,0.593,0.556,1st of 6,--,Lost NLCS (4-2),721,638,3071373,28.9,29.3,48,22,R.Braun ,7.8,R.Roenicke (96-66),Milwaukee Brewers
+1363,7,2010,Milwaukee Brewers,NL Central,162,77,85,0,0.475,0.468,3rd of 6,14,,750,804,2776531,27.8,29.2,43,25,R.Braun ,5.7,K.Macha (77-85),Milwaukee Brewers
+1364,8,2009,Milwaukee Brewers,NL Central,162,80,82,0,0.494,0.481,3rd of 6,11,,785,818,3037451,29.3,30,45,23,P.Fielder ,6.3,K.Macha (80-82),Milwaukee Brewers
+1365,9,2008,Milwaukee Brewers,NL Central,162,90,72,0,0.556,0.539,2nd of 6,7.5,Lost LDS (3-1),750,689,3068458,28.7,29.9,44,20,C.Sabathia ,5.2,N.Yost (83-67) and D.Sveum (7-5),Milwaukee Brewers
+1366,10,2007,Milwaukee Brewers,NL Central,162,83,79,0,0.512,0.515,2nd of 6,2,,801,776,2869144,27.7,29.1,40,21,C.Hart ,4.7,N.Yost (83-79),Milwaukee Brewers
+1367,11,2006,Milwaukee Brewers,NL Central,162,75,87,0,0.463,0.44,4th of 6,8.5,,730,833,2335643,28.8,28.3,49,27,B.Hall ,5.8,N.Yost (75-87),Milwaukee Brewers
+1405,1,2016,Minnesota Twins,AL Central,162,59,103,0,0.364,0.406,5th of 5,35.5,,722,889,1963912,27,28.3,42,29,B.Dozier ,6.5,P.Molitor (59-103),Minnesota Twins
+1406,2,2015,Minnesota Twins,AL Central,162,83,79,0,0.512,0.497,2nd of 5,12,,696,700,2220054,28.3,29.1,44,24,K.Gibson ,3.2,P.Molitor (83-79),Minnesota Twins
+1407,3,2014,Minnesota Twins,AL Central,162,70,92,0,0.432,0.462,5th of 5,20,,715,777,2250606,27.6,29.2,48,23,B.Dozier ,5.2,R.Gardenhire (70-92),Minnesota Twins
+1408,4,2013,Minnesota Twins,AL Central,162,66,96,0,0.407,0.388,4th of 5,27,,614,788,2477644,28.3,28.3,44,23,J.Mauer ,5.3,R.Gardenhire (66-96),Minnesota Twins
+1409,5,2012,Minnesota Twins,AL Central,162,66,96,0,0.407,0.422,5th of 5,22,,701,832,2776354,28.8,27.8,47,25,D.Span ,5,R.Gardenhire (66-96),Minnesota Twins
+1410,6,2011,Minnesota Twins,AL Central,162,63,99,0,0.389,0.383,5th of 5,32,,619,804,3168116,27.6,28.5,45,24,S.Baker ,4.4,R.Gardenhire (63-99),Minnesota Twins
+1411,7,2010,Minnesota Twins,AL Central,162,94,68,0,0.58,0.569,1st of 5,--,Lost LDS (3-0),781,671,3223640,28.5,28.6,42,21,J.Mauer ,5.9,R.Gardenhire (94-68),Minnesota Twins
+1412,8,2009,Minnesota Twins,AL Central,163,87,76,0,0.534,0.53,1st of 5,--,Lost LDS (3-0),817,765,2416237,27.7,27.9,42,24,J.Mauer ,7.8,R.Gardenhire (87-76),Minnesota Twins
+1413,9,2008,Minnesota Twins,AL Central,163,88,75,0,0.54,0.549,2nd of 5,1,,829,745,2302431,26.4,27.5,40,19,J.Mauer ,5.6,R.Gardenhire (88-75),Minnesota Twins
+1414,10,2007,Minnesota Twins,AL Central,162,79,83,0,0.488,0.496,3rd of 5,17,,718,725,2296383,28.4,27.4,42,19,J.Santana ,5.2,R.Gardenhire (79-83),Minnesota Twins
+1415,11,2006,Minnesota Twins,AL Central,162,96,66,0,0.593,0.572,1st of 5,--,Lost LDS (3-0),801,683,2285018,28.2,26.9,39,17,J.Santana ,7.5,R.Gardenhire (96-66),Minnesota Twins
+1521,1,2016,New York Mets,NL East,162,87,75,0,0.537,0.538,2nd of 5,8,Lost NLWC (1-0),671,617,2789602,29.5,28.4,46,22,N.Syndergaard ,6,T.Collins (87-75),New York Mets
+1522,2,2015,New York Mets,NL East,162,90,72,0,0.556,0.549,1st of 5,--,Lost WS (4-1),683,613,2569753,28.6,28.2,49,26,C.Granderson ,5.1,T.Collins (90-72),New York Mets
+1523,3,2014,New York Mets,NL East,162,79,83,0,0.488,0.508,2nd of 5,17,,629,618,2148808,28.4,28.9,45,22,J.Lagares ,5.5,T.Collins (79-83),New York Mets
+1524,4,2013,New York Mets,NL East,162,74,88,0,0.457,0.454,3rd of 5,22,,619,684,2135657,28.3,29.1,53,29,D.Wright ,5.9,T.Collins (74-88),New York Mets
+1525,5,2012,New York Mets,NL East,162,74,88,0,0.457,0.46,4th of 5,24,,650,709,2242803,27.9,30.3,49,28,D.Wright ,7,T.Collins (74-88),New York Mets
+1526,6,2011,New York Mets,NL East,162,77,85,0,0.475,0.485,4th of 5,25,,718,742,2352596,28,30,46,23,J.Reyes ,4.7,T.Collins (77-85),New York Mets
+1527,7,2010,New York Mets,NL East,162,79,83,0,0.488,0.503,4th of 5,18,,656,652,2559738,28.4,29.5,47,20,A.Pagan ,5.3,J.Manuel (79-83),New York Mets
+1528,8,2009,New York Mets,NL East,162,70,92,0,0.432,0.445,4th of 5,23,,671,757,3168571,29.5,29.2,53,24,A.Pagan ,4,J.Manuel (70-92),New York Mets
+1529,9,2008,New York Mets,NL East,162,89,73,0,0.549,0.551,2nd of 5,3,,799,715,4042045,30.1,29,50,24,J.Santana ,7.1,W.Randolph (34-35) and J.Manuel (55-38),New York Mets
+1530,10,2007,New York Mets,NL East,162,88,74,0,0.543,0.532,2nd of 5,1,,804,750,3853955,30.8,31.3,49,24,D.Wright ,8.3,W.Randolph (88-74),New York Mets
+1531,11,2006,New York Mets,NL East,162,97,65,0,0.599,0.56,1st of 5,--,Lost NLCS (4-3),834,731,3379535,30.2,32.2,49,27,C.Beltran ,8.2,W.Randolph (97-65),New York Mets
+1576,1,2016,New York Yankees,AL East,162,84,78,0,0.519,0.485,4th of 5,9,,680,702,3063405,30,27.9,42,29,M.Tanaka ,5.4,J.Girardi (84-78),New York Yankees
+1577,2,2015,New York Yankees,AL East,162,87,75,0,0.537,0.541,2nd of 5,6,Lost ALWC (1-0),764,698,3193795,31.2,27.4,56,33,M.Teixeira ,3.8,J.Girardi (87-75),New York Yankees
+1578,3,2014,New York Yankees,AL East,162,84,78,0,0.519,0.478,2nd of 5,12,,633,664,3401624,32.5,29.3,58,33,B.Gardner ,4,J.Girardi (84-78),New York Yankees
+1579,4,2013,New York Yankees,AL East,162,85,77,0,0.525,0.485,3rd of 5,12,,650,671,3279589,31.8,31.8,56,24,R.Cano ,7.8,J.Girardi (85-77),New York Yankees
+1580,5,2012,New York Yankees,AL East,162,95,67,0,0.586,0.584,1st of 5,--,Lost ALCS (4-0),804,668,3542406,32.7,30.3,45,23,R.Cano ,8.4,J.Girardi (95-67),New York Yankees
+1581,6,2011,New York Yankees,AL East,162,97,65,0,0.599,0.624,1st of 5,--,Lost LDS (3-2),867,657,3653680,30.5,31,48,28,C.Sabathia ,7.4,J.Girardi (97-65),New York Yankees
+1582,7,2010,New York Yankees,AL East,162,95,67,0,0.586,0.597,2nd of 5,1,Lost ALCS (4-2),859,693,3765807,30.2,30.3,43,21,R.Cano ,8.1,J.Girardi (95-67),New York Yankees
+1583,8,2009,New York Yankees,AL East,162,103,59,0,0.636,0.588,1st of 5,--,Won WS (4-2),915,753,3719358,30.5,29.3,45,24,D.Jeter ,6.5,J.Girardi (103-59),New York Yankees
+1584,9,2008,New York Yankees,AL East,162,89,73,0,0.549,0.537,3rd of 5,8,,789,727,4298655,31.3,30.6,51,27,A.Rodriguez ,6.8,J.Girardi (89-73),New York Yankees
+1585,10,2007,New York Yankees,AL East,162,94,68,0,0.58,0.599,2nd of 5,2,Lost LDS (3-1),968,777,4271083,30.7,31.4,49,28,A.Rodriguez ,9.4,J.Torre (94-68),New York Yankees
+1586,11,2006,New York Yankees,AL East,162,97,65,0,0.599,0.587,1st of 5,--,Lost LDS (3-1),930,767,4248067,30.9,32.5,49,25,C.Wang ,6,J.Torre (97-65),New York Yankees
+1690,1,2016,Oakland Athletics,AL West,162,69,93,0,0.426,0.43,5th of 5,26,,653,761,1521506,28.7,27.9,43,27,K.Graveman ,3.2,B.Melvin (69-93),Oakland Athletics
+1691,2,2015,Oakland Athletics,AL West,162,68,94,0,0.42,0.478,5th of 5,20,,694,729,1768175,27.9,27.8,52,30,S.Gray ,5.8,B.Melvin (68-94),Oakland Athletics
+1692,3,2014,Oakland Athletics,AL West,162,88,74,0,0.543,0.609,2nd of 5,10,Lost ALWC (1-0),729,572,2003628,29.5,28.2,45,22,J.Donaldson ,7.3,B.Melvin (88-74),Oakland Athletics
+1693,4,2013,Oakland Athletics,AL West,162,96,66,0,0.593,0.593,1st of 5,--,Lost LDS (3-2),767,625,1809302,28.3,28.3,44,18,J.Donaldson ,7.7,B.Melvin (96-66),Oakland Athletics
+1694,5,2012,Oakland Athletics,AL West,162,94,68,0,0.58,0.568,1st of 4,--,Lost LDS (3-2),713,614,1679013,27.7,27.9,50,25,J.Reddick ,5,B.Melvin (94-68),Oakland Athletics
+1695,6,2011,Oakland Athletics,AL West,162,74,88,0,0.457,0.477,3rd of 4,22,,645,679,1476791,29,27.4,48,26,G.Gonzalez ,4.4,B.Geren (27-36) and B.Melvin (47-52),Oakland Athletics
+1696,7,2010,Oakland Athletics,AL West,162,81,81,0,0.5,0.526,2nd of 4,9,,663,626,1418391,27.7,26,49,23,D.Barton ,5.5,B.Geren (81-81),Oakland Athletics
+1697,8,2009,Oakland Athletics,AL West,162,75,87,0,0.463,0.499,4th of 4,22,,759,761,1408783,29,25.7,51,26,A.Bailey ,3.7,B.Geren (75-87),Oakland Athletics
+1698,9,2008,Oakland Athletics,AL West,161,75,86,0,0.466,0.47,3rd of 4,24.5,,646,690,1665256,27.2,26.5,51,24,M.Ellis ,4,B.Geren (75-86),Oakland Athletics
+1699,10,2007,Oakland Athletics,AL West,162,76,86,0,0.469,0.49,3rd of 4,18,,741,758,1921844,28.8,26.9,54,24,M.Ellis ,4.8,B.Geren (76-86),Oakland Athletics
+1700,11,2006,Oakland Athletics,AL West,162,93,69,0,0.574,0.527,1st of 4,--,Lost ALCS (4-0),771,727,1976625,29.5,27,41,21,B.Zito ,4.4,K.Macha (93-69),Oakland Athletics
+1806,1,2016,Philadelphia Phillies,NL East,162,71,91,0,0.438,0.381,4th of 5,24,,610,796,1915144,26.9,26.3,49,27,O.Herrera ,4.2,P.Mackanin (71-91),Philadelphia Phillies
+1807,2,2015,Philadelphia Phillies,NL East,162,63,99,0,0.389,0.385,5th of 5,27,,626,809,1831080,28,28.5,50,30,O.Herrera ,3.8,R.Sandberg (26-48) and P.Mackanin (37-51),Philadelphia Phillies
+1808,3,2014,Philadelphia Phillies,NL East,162,73,89,0,0.451,0.452,5th of 5,23,,619,687,2423852,30.8,30.1,49,26,C.Hamels ,6.8,R.Sandberg (73-89),Philadelphia Phillies
+1809,4,2013,Philadelphia Phillies,NL East,162,73,89,0,0.451,0.407,4th of 5,23,,610,749,3012403,30,28.7,51,27,C.Lee ,7.6,C.Manuel (53-67) and R.Sandberg (20-22),Philadelphia Phillies
+1810,5,2012,Philadelphia Phillies,NL East,162,81,81,0,0.5,0.503,3rd of 5,17,,684,680,3565718,31.1,29.1,49,24,C.Hamels ,5.2,C.Manuel (81-81),Philadelphia Phillies
+1811,6,2011,Philadelphia Phillies,NL East,162,102,60,0,0.63,0.633,1st of 5,--,Lost LDS (3-2),713,529,3680718,31.4,29.2,42,23,C.Lee ,9.2,C.Manuel (102-60),Philadelphia Phillies
+1812,7,2010,Philadelphia Phillies,NL East,162,97,65,0,0.599,0.585,1st of 5,--,Lost NLCS (4-2),772,640,3777322,31.8,31.1,42,21,R.Halladay ,8.1,C.Manuel (97-65),Philadelphia Phillies
+1813,8,2009,Philadelphia Phillies,NL East,162,93,69,0,0.574,0.566,1st of 5,--,Lost WS (4-2),820,709,3600693,31.3,31.2,41,22,C.Utley ,8.2,C.Manuel (93-69),Philadelphia Phillies
+1814,9,2008,Philadelphia Phillies,NL East,162,92,70,0,0.568,0.573,1st of 5,--,Won WS (4-1),799,680,3422583,30.1,30.6,40,18,C.Utley ,9,C.Manuel (92-70),Philadelphia Phillies
+1815,10,2007,Philadelphia Phillies,NL East,162,89,73,0,0.549,0.538,1st of 5,--,Lost LDS (3-0),892,821,3108325,28.8,30.6,46,28,C.Utley ,7.8,C.Manuel (89-73),Philadelphia Phillies
+1816,11,2006,Philadelphia Phillies,NL East,162,85,77,0,0.525,0.529,2nd of 5,12,,865,812,2701815,29.3,30.5,45,23,C.Utley ,7.3,C.Manuel (85-77),Philadelphia Phillies
+1940,1,2016,Pittsburgh Pirates,NL Central,162,78,83,1,0.484,0.482,3rd of 5,25,,729,758,2249201,28.9,28.6,55,32,S.Marte ,4.9,C.Hurdle (78-83),Pittsburgh Pirates
+1941,2,2015,Pittsburgh Pirates,NL Central,162,98,64,0,0.605,0.571,2nd of 5,2,Lost NLWC (1-0),697,596,2498596,28.2,29.6,46,21,S.Marte ,5.4,C.Hurdle (98-64),Pittsburgh Pirates
+1942,3,2014,Pittsburgh Pirates,NL Central,162,88,74,0,0.543,0.535,2nd of 5,2,Lost NLWC (1-0),682,631,2442564,27.3,28.1,45,23,A.McCutchen ,6.3,C.Hurdle (88-74),Pittsburgh Pirates
+1943,4,2013,Pittsburgh Pirates,NL Central,162,94,68,0,0.58,0.543,2nd of 5,3,Lost LDS (3-2),634,577,2256862,27.9,28.7,49,28,A.McCutchen ,8.1,C.Hurdle (94-68),Pittsburgh Pirates
+1944,5,2012,Pittsburgh Pirates,NL Central,162,79,83,0,0.488,0.484,4th of 6,18,,651,674,2091918,27.6,30.2,49,25,A.McCutchen ,7,C.Hurdle (79-83),Pittsburgh Pirates
+1945,6,2011,Pittsburgh Pirates,NL Central,162,72,90,0,0.444,0.43,4th of 6,24,,610,712,1940429,27.2,28.1,52,25,A.McCutchen ,5.7,C.Hurdle (72-90),Pittsburgh Pirates
+1946,7,2010,Pittsburgh Pirates,NL Central,162,57,105,0,0.352,0.329,6th of 6,34,,587,866,1613399,26.5,28.6,52,28,A.McCutchen ,3.8,J.Russell (57-105),Pittsburgh Pirates
+1947,8,2009,Pittsburgh Pirates,NL Central,161,62,99,0,0.385,0.415,6th of 6,28.5,,636,768,1577853,27,26.3,49,26,J.Wilson ,3.2,J.Russell (62-99),Pittsburgh Pirates
+1948,9,2008,Pittsburgh Pirates,NL Central,162,67,95,0,0.414,0.416,6th of 6,30.5,,735,884,1609076,28.4,26.5,47,26,P.Maholm ,3.9,J.Russell (67-95),Pittsburgh Pirates
+1949,10,2007,Pittsburgh Pirates,NL Central,162,68,94,0,0.42,0.429,6th of 6,17,,724,846,1749142,27.2,27.1,46,25,J.Wilson ,3.6,J.Tracy (68-94),Pittsburgh Pirates
+1950,11,2006,Pittsburgh Pirates,NL Central,162,67,95,0,0.414,0.435,5th of 6,16.5,,691,797,1861549,27.8,27,42,22,F.Sanchez ,4.4,J.Tracy (67-95),Pittsburgh Pirates
+2075,1,2016,San Diego Padres,NL West,162,68,94,0,0.42,0.447,5th of 5,23,,686,770,2351422,28.1,28.1,58,32,D.Pomeranz ,3.4,A.Green (68-94),San Diego Padres
+2076,2,2015,San Diego Padres,NL West,162,74,88,0,0.457,0.446,4th of 5,18,,650,731,2459752,27.6,29.1,46,26,J.Upton ,4.4,"B.Black (32-33), D.Roberts (0-1) and P.Murphy (42-54)",San Diego Padres
+2077,3,2014,San Diego Padres,NL West,162,77,85,0,0.475,0.465,3rd of 5,17,,535,577,2195373,27.9,28.8,51,24,S.Smith ,4,B.Black (77-85),San Diego Padres
+2078,4,2013,San Diego Padres,NL West,162,76,86,0,0.469,0.443,3rd of 5,16,,618,700,2166691,28.1,28.8,47,23,C.Denorfia ,4.3,B.Black (76-86),San Diego Padres
+2079,5,2012,San Diego Padres,NL West,162,76,86,0,0.469,0.46,4th of 5,18,,651,710,2123721,27.4,28,53,30,C.Headley ,6.3,B.Black (76-86),San Diego Padres
+2080,6,2011,San Diego Padres,NL West,162,71,91,0,0.438,0.486,5th of 5,23,,593,611,2143018,28,28.1,48,22,C.Maybin ,4.5,B.Black (71-91),San Diego Padres
+2081,7,2010,San Diego Padres,NL West,162,90,72,0,0.556,0.561,2nd of 5,2,,665,581,2131774,29.1,27.2,40,19,A.Gonzalez ,4.3,B.Black (90-72),San Diego Padres
+2082,8,2009,San Diego Padres,NL West,162,75,87,0,0.463,0.415,4th of 5,20,,638,769,1919603,28,26.8,56,33,A.Gonzalez ,6.9,B.Black (75-87),San Diego Padres
+2083,9,2008,San Diego Padres,NL West,162,63,99,0,0.389,0.418,5th of 5,21,,637,764,2427535,28.9,30.2,59,32,B.Giles ,4.8,B.Black (63-99),San Diego Padres
+2084,10,2007,San Diego Padres,NL West,163,89,74,0,0.546,0.549,3rd of 5,1.5,,741,666,2790074,29.9,31.5,49,21,J.Peavy ,6.9,B.Black (89-74),San Diego Padres
+2085,11,2006,San Diego Padres,NL West,162,88,74,0,0.543,0.534,1st of 5,--,Lost LDS (3-1),731,679,2659757,30.7,30.6,46,22,M.Cameron ,4.3,B.Bochy (88-74),San Diego Padres
+2123,1,2016,San Francisco Giants,NL West,162,87,75,0,0.537,0.557,2nd of 5,4,Lost LDS (3-1),715,631,3365256,29.1,30,45,24,M.Bumgarner ,5.9,B.Bochy (87-75),San Francisco Giants
+2124,2,2015,San Francisco Giants,NL West,162,84,78,0,0.519,0.548,2nd of 5,8,,696,627,3375882,28.9,31.5,48,21,B.Posey ,6.1,B.Bochy (84-78),San Francisco Giants
+2125,3,2014,San Francisco Giants,NL West,162,88,74,0,0.543,0.536,2nd of 5,6,Won WS (4-3),665,614,3368697,28.6,31.7,46,21,M.Bumgarner ,5.3,B.Bochy (88-74),San Francisco Giants
+2126,4,2013,San Francisco Giants,NL West,162,76,86,0,0.469,0.457,3rd of 5,16,,629,691,3369106,28.7,29.6,44,21,B.Posey ,4.9,B.Bochy (76-86),San Francisco Giants
+2127,5,2012,San Francisco Giants,NL West,162,94,68,0,0.58,0.546,1st of 5,--,Won WS (4-0),718,649,3377371,27.8,30,45,23,B.Posey ,7.3,B.Bochy (94-68),San Francisco Giants
+2128,6,2011,San Francisco Giants,NL West,162,86,76,0,0.531,0.494,2nd of 5,8,,570,578,3387303,30.2,28.5,44,17,P.Sandoval ,6.1,B.Bochy (86-76),San Francisco Giants
+2129,7,2010,San Francisco Giants,NL West,162,92,70,0,0.568,0.581,1st of 5,--,Won WS (4-1),697,583,3037443,29.6,27.9,42,19,A.Huff ,5.7,B.Bochy (92-70),San Francisco Giants
+2130,8,2009,San Francisco Giants,NL West,162,88,74,0,0.543,0.533,3rd of 5,7,,657,611,2862110,29,28.7,44,21,T.Lincecum ,7.6,B.Bochy (88-74),San Francisco Giants
+2131,9,2008,San Francisco Giants,NL West,162,72,90,0,0.444,0.423,4th of 5,12,,640,759,2863837,29.6,27.1,49,20,T.Lincecum ,8.1,B.Bochy (72-90),San Francisco Giants
+2132,10,2007,San Francisco Giants,NL West,162,71,91,0,0.438,0.476,5th of 5,19,,683,720,3223215,32.7,27.3,44,22,M.Cain ,4.3,B.Bochy (71-91),San Francisco Giants
+2133,11,2006,San Francisco Giants,NL West,161,76,85,0,0.472,0.474,3rd of 5,11.5,,746,790,3130313,33.6,28.7,44,21,J.Schmidt ,4,F.Alou (76-85),San Francisco Giants
+2257,1,2016,Seattle Mariners,AL West,162,86,76,0,0.531,0.538,2nd of 5,9,,768,707,2267928,30.4,28.8,40,32,R.Cano ,7.3,S.Servais (86-76),Seattle Mariners
+2258,2,2015,Seattle Mariners,AL West,162,76,86,0,0.469,0.454,4th of 5,12,,656,726,2193581,28.6,28.6,51,28,N.Cruz ,5.2,L.McClendon (76-86),Seattle Mariners
+2259,3,2014,Seattle Mariners,AL West,162,87,75,0,0.537,0.561,3rd of 5,11,,634,554,2064334,27.6,29,44,20,F.Hernandez ,6.7,L.McClendon (87-75),Seattle Mariners
+2260,4,2013,Seattle Mariners,AL West,162,71,91,0,0.438,0.414,4th of 5,25,,624,754,1761546,28.5,28,47,22,H.Iwakuma ,6.9,E.Wedge (71-91),Seattle Mariners
+2261,5,2012,Seattle Mariners,AL West,162,75,87,0,0.463,0.477,4th of 4,19,,619,651,1721920,27.1,27.9,38,18,F.Hernandez ,4.8,E.Wedge (75-87),Seattle Mariners
+2262,6,2011,Seattle Mariners,AL West,162,67,95,0,0.414,0.412,4th of 4,29,,556,675,1896321,29.2,26.8,47,21,B.Ryan ,4,E.Wedge (67-95),Seattle Mariners
+2263,7,2010,Seattle Mariners,AL West,162,61,101,0,0.377,0.363,4th of 4,29,,513,698,2085630,29.4,27.1,47,22,F.Hernandez ,7.1,D.Wakamatsu (42-70) and D.Brown (19-31),Seattle Mariners
+2264,8,2009,Seattle Mariners,AL West,162,85,77,0,0.525,0.464,3rd of 4,12,,640,692,2195533,29.8,27.4,46,20,F.Gutierrez ,6.6,D.Wakamatsu (85-77),Seattle Mariners
+2265,9,2008,Seattle Mariners,AL West,162,61,101,0,0.377,0.414,4th of 4,39,,671,811,2329702,29.6,28.5,44,22,A.Beltre ,5.6,J.McLaren (25-47) and J.Riggleman (36-54),Seattle Mariners
+2266,10,2007,Seattle Mariners,AL West,162,88,74,0,0.543,0.489,2nd of 4,6,,794,813,2672223,29.8,28.1,44,23,I.Suzuki ,5.8,M.Hargrove (45-33) and J.McLaren (43-41),Seattle Mariners
+2267,11,2006,Seattle Mariners,AL West,162,78,84,0,0.481,0.479,4th of 4,15,,756,792,2481165,28.6,28,49,25,A.Beltre ,5.4,M.Hargrove (78-84),Seattle Mariners
+2297,1,2016,St. Louis Cardinals,NL Central,162,86,76,0,0.531,0.541,2nd of 5,17.5,,779,712,3444490,28.5,28,41,21,C.Martinez ,5.9,M.Matheny (86-76),St. Louis Cardinals
+2298,2,2015,St. Louis Cardinals,NL Central,162,100,62,0,0.617,0.594,1st of 5,--,Lost LDS (3-1),647,525,3520889,28.4,28.2,46,23,J.Heyward ,6.5,M.Matheny (100-62),St. Louis Cardinals
+2299,3,2014,St. Louis Cardinals,NL Central,162,90,72,0,0.556,0.512,1st of 5,--,Lost NLCS (4-1),619,603,3540649,28.6,27.2,46,24,A.Wainwright ,6.4,M.Matheny (90-72),St. Louis Cardinals
+2300,4,2013,St. Louis Cardinals,NL Central,162,97,65,0,0.599,0.622,1st of 5,--,Lost WS (4-2),783,596,3369769,28.7,26.9,44,25,A.Wainwright ,6.4,M.Matheny (97-65),St. Louis Cardinals
+2301,5,2012,St. Louis Cardinals,NL Central,162,88,74,0,0.543,0.575,2nd of 6,9,Lost NLCS (4-3),765,648,3262109,29.2,28.6,45,24,Y.Molina ,6.9,M.Matheny (88-74),St. Louis Cardinals
+2302,6,2011,St. Louis Cardinals,NL Central,162,90,72,0,0.556,0.544,2nd of 6,6,Won WS (4-3),762,692,3093954,29.3,30.2,46,24,A.Pujols ,5.3,T.La Russa (90-72),St. Louis Cardinals
+2303,7,2010,St. Louis Cardinals,NL Central,162,86,76,0,0.531,0.563,2nd of 6,5,,736,641,3301218,28.8,30.2,42,22,A.Pujols ,7.5,T.La Russa (86-76),St. Louis Cardinals
+2304,8,2009,St. Louis Cardinals,NL Central,162,91,71,0,0.562,0.56,1st of 6,--,Lost LDS (3-0),730,640,3343252,28.5,30.1,42,20,A.Pujols ,9.7,T.La Russa (91-71),St. Louis Cardinals
+2305,9,2008,St. Louis Cardinals,NL Central,162,86,76,0,0.531,0.533,4th of 6,11.5,,779,725,3432917,28.8,30.2,43,24,A.Pujols ,9.2,T.La Russa (86-76),St. Louis Cardinals
+2306,10,2007,St. Louis Cardinals,NL Central,162,78,84,0,0.481,0.439,3rd of 6,7,,725,829,3552180,30.2,29.6,45,25,A.Pujols ,8.7,T.La Russa (78-84),St. Louis Cardinals
+2307,11,2006,St. Louis Cardinals,NL Central,161,83,78,0,0.516,0.511,1st of 6,--,Won WS (4-1),781,762,3407104,29.6,28.6,41,19,A.Pujols ,8.4,T.La Russa (83-78),St. Louis Cardinals
+2432,1,2016,Tampa Bay Rays,AL East,162,68,94,0,0.42,0.473,5th of 5,25,,672,713,1286163,27.7,26.9,39,25,K.Kiermaier ,5.5,K.Cash (68-94),Tampa Bay Rays
+2433,2,2015,Tampa Bay Rays,AL East,162,80,82,0,0.494,0.501,4th of 5,13,,644,642,1287054,28.4,26.7,51,27,K.Kiermaier ,7.3,K.Cash (80-82),Tampa Bay Rays
+2434,3,2014,Tampa Bay Rays,AL East,162,77,85,0,0.475,0.49,4th of 5,19,,612,625,1446464,29.3,28.4,43,23,B.Zobrist ,4.9,J.Maddon (77-85),Tampa Bay Rays
+2435,4,2013,Tampa Bay Rays,AL East,163,92,71,0,0.564,0.537,2nd of 5,5.5,Lost LDS (3-1),700,646,1510300,29.6,29,42,21,E.Longoria ,6.2,J.Maddon (92-71),Tampa Bay Rays
+2436,5,2012,Tampa Bay Rays,AL East,162,90,72,0,0.556,0.586,3rd of 5,5,,697,577,1559681,29.7,28.1,43,18,D.Price ,6.9,J.Maddon (90-72),Tampa Bay Rays
+2437,6,2011,Tampa Bay Rays,AL East,162,91,71,0,0.562,0.564,2nd of 5,6,Lost LDS (3-1),707,614,1529188,28.3,27.8,42,21,B.Zobrist ,8.7,J.Maddon (91-71),Tampa Bay Rays
+2438,7,2010,Tampa Bay Rays,AL East,162,96,66,0,0.593,0.596,1st of 5,--,Lost LDS (3-2),802,649,1864999,27.7,28,37,17,E.Longoria ,8.1,J.Maddon (96-66),Tampa Bay Rays
+2439,8,2009,Tampa Bay Rays,AL East,162,84,78,0,0.519,0.529,3rd of 5,19,,803,754,1874962,28,28.4,41,21,B.Zobrist ,8.6,J.Maddon (84-78),Tampa Bay Rays
+2440,9,2008,Tampa Bay Rays,AL East,162,97,65,0,0.599,0.565,1st of 5,--,Lost WS (4-1),774,671,1811986,27.2,27.5,46,21,C.Pena ,5.1,J.Maddon (97-65),Tampa Bay Rays
+2441,10,2007,Tampa Bay Devil Rays,AL East,162,66,96,0,0.407,0.415,5th of 5,30,,782,944,1387603,26.1,27,45,24,C.Pena ,7.2,J.Maddon (66-96),Tampa Bay Rays
+2442,11,2006,Tampa Bay Devil Rays,AL East,162,61,101,0,0.377,0.402,5th of 5,36,,689,856,1368950,27.3,27,49,25,C.Crawford ,4.5,J.Maddon (61-101),Tampa Bay Rays
+2451,1,2016,Texas Rangers,AL West,162,95,67,0,0.586,0.505,1st of 5,--,Lost LDS (3-0),765,757,2710402,28.4,28.8,40,31,A.Beltre ,6.4,J.Banister (95-67),Texas Rangers
+2452,2,2015,Texas Rangers,AL West,162,88,74,0,0.543,0.511,1st of 5,--,Lost LDS (3-2),751,733,2491875,28.6,28.1,57,31,A.Beltre ,5.8,J.Banister (88-74),Texas Rangers
+2453,3,2014,Texas Rangers,AL West,162,67,95,0,0.414,0.412,5th of 5,31,,637,773,2718733,28.4,27.9,64,40,A.Beltre ,7,R.Washington (53-87) and T.Bogar (14-8),Texas Rangers
+2454,4,2013,Texas Rangers,AL West,163,91,72,0,0.558,0.563,2nd of 5,5.5,,730,636,3178273,29.5,27.9,46,25,Y.Darvish ,5.7,R.Washington (91-72),Texas Rangers
+2455,5,2012,Texas Rangers,AL West,162,93,69,0,0.574,0.561,2nd of 4,1,Lost ALWC (1-0),808,707,3460280,29.7,28.8,39,21,A.Beltre ,7.2,R.Washington (93-69),Texas Rangers
+2456,6,2011,Texas Rangers,AL West,162,96,66,0,0.593,0.605,1st of 4,--,Lost WS (4-3),855,677,2946949,29.2,28.8,45,25,I.Kinsler ,7.1,R.Washington (96-66),Texas Rangers
+2457,7,2010,Texas Rangers,AL West,162,90,72,0,0.556,0.562,1st of 4,--,Lost WS (4-1),787,687,2505171,28.3,27.6,48,22,J.Hamilton ,8.7,R.Washington (90-72),Texas Rangers
+2458,8,2009,Texas Rangers,AL West,162,87,75,0,0.537,0.526,2nd of 4,10,,784,740,2156016,27.8,27.7,44,23,I.Kinsler ,6,R.Washington (87-75),Texas Rangers
+2459,9,2008,Texas Rangers,AL West,162,79,83,0,0.488,0.468,2nd of 4,21,,901,967,1945677,27.7,28.1,55,30,J.Hamilton ,5.4,R.Washington (79-83),Texas Rangers
+2460,10,2007,Texas Rangers,AL West,162,75,87,0,0.463,0.485,4th of 4,19,,816,844,2353862,29.3,27.7,50,25,I.Kinsler ,4.1,R.Washington (75-87),Texas Rangers
+2461,11,2006,Texas Rangers,AL West,162,80,82,0,0.494,0.529,3rd of 4,13,,835,784,2388757,28.4,28.3,51,26,G.Matthews ,5.2,B.Showalter (80-82),Texas Rangers
+2507,1,2016,Toronto Blue Jays,AL East,162,89,73,0,0.549,0.56,2nd of 5,4,Lost ALCS (4-1),759,666,3392099,30.1,29.8,38,29,J.Donaldson ,7.4,J.Gibbons (89-73),Toronto Blue Jays
+2508,2,2015,Toronto Blue Jays,AL East,162,93,69,0,0.574,0.628,1st of 5,--,Lost ALCS (4-2),891,670,2794891,29.5,29.2,52,28,J.Donaldson ,8.8,J.Gibbons (93-69),Toronto Blue Jays
+2509,3,2014,Toronto Blue Jays,AL East,162,83,79,0,0.512,0.524,3rd of 5,13,,723,686,2375525,29.2,29.6,55,27,J.Bautista ,6.1,J.Gibbons (83-79),Toronto Blue Jays
+2510,4,2013,Toronto Blue Jays,AL East,162,74,88,0,0.457,0.473,5th of 5,23,,712,756,2536562,29.1,30.9,53,31,C.Rasmus ,4.8,J.Gibbons (74-88),Toronto Blue Jays
+2511,5,2012,Toronto Blue Jays,AL East,162,73,89,0,0.451,0.459,4th of 5,22,,716,784,2099663,27.9,27.8,54,34,E.Encarnacion ,5,J.Farrell (73-89),Toronto Blue Jays
+2512,6,2011,Toronto Blue Jays,AL East,162,81,81,0,0.5,0.489,4th of 5,16,,743,761,1818103,28.4,27.6,53,30,J.Bautista ,8.1,J.Farrell (81-81),Toronto Blue Jays
+2513,7,2010,Toronto Blue Jays,AL East,162,85,77,0,0.525,0.517,4th of 5,11,,755,728,1495482,29.3,28,44,24,J.Bautista ,6.9,C.Gaston (85-77),Toronto Blue Jays
+2514,8,2009,Toronto Blue Jays,AL East,162,75,87,0,0.463,0.516,4th of 5,28,,798,771,1876129,29.9,28.4,44,24,R.Halladay ,6.9,C.Gaston (75-87),Toronto Blue Jays
+2515,9,2008,Toronto Blue Jays,AL East,162,86,76,0,0.531,0.572,4th of 5,11,,714,610,2399786,30.9,28.6,43,19,R.Halladay ,6.2,J.Gibbons (35-39) and C.Gaston (51-37),Toronto Blue Jays
+2516,10,2007,Toronto Blue Jays,AL East,162,83,79,0,0.512,0.534,3rd of 5,13,,753,699,2360644,30.3,27.3,46,23,A.Rios ,5.6,J.Gibbons (83-79),Toronto Blue Jays
+2517,11,2006,Toronto Blue Jays,AL East,162,87,75,0,0.537,0.532,2nd of 5,10,,809,754,2302212,28.6,28.1,42,21,V.Wells ,6.2,J.Gibbons (87-75),Toronto Blue Jays
+2547,1,2016,Washington Nationals,NL East,162,95,67,0,0.586,0.6,1st of 5,--,Lost LDS (3-2),763,612,2481938,28.8,29.1,43,24,M.Scherzer ,6.3,D.Baker (95-67),Washington Nationals
+2548,2,2015,Washington Nationals,NL East,162,83,79,0,0.512,0.546,2nd of 5,7,,703,635,2619843,28.4,28.6,44,26,B.Harper ,9.9,M.Williams (83-79),Washington Nationals
+2549,3,2014,Washington Nationals,NL East,162,96,66,0,0.593,0.596,1st of 5,--,Lost LDS (3-1),686,555,2579389,28.8,28.3,40,18,A.Rendon ,6.6,M.Williams (96-66),Washington Nationals
+2550,4,2013,Washington Nationals,NL East,162,86,76,0,0.531,0.521,2nd of 5,10,,656,626,2652422,27.7,27.7,44,21,J.Werth ,4.7,D.Johnson (86-76),Washington Nationals
+2551,5,2012,Washington Nationals,NL East,162,98,64,0,0.605,0.594,1st of 5,--,Lost LDS (3-2),731,594,2370794,27.2,27,43,19,J.Zimmermann ,5.3,D.Johnson (98-64),Washington Nationals
+2552,6,2011,Washington Nationals,NL East,161,80,81,0,0.497,0.486,3rd of 5,21.5,,624,643,1940478,28.4,27.6,44,24,T.Clippard ,3.4,"J.Riggleman (38-37), J.McLaren (2-1) and D.Johnson (40-43)",Washington Nationals
+2553,7,2010,Washington Nationals,NL East,162,69,93,0,0.426,0.443,5th of 5,28,,655,742,1828066,29.1,28,46,26,R.Zimmerman ,6.2,J.Riggleman (69-93),Washington Nationals
+2554,8,2009,Washington Nationals,NL East,162,59,103,0,0.364,0.406,5th of 5,34,,710,874,1817226,28.4,27.4,55,30,R.Zimmerman ,7.3,M.Acta (26-61) and J.Riggleman (33-42),Washington Nationals
+2555,9,2008,Washington Nationals,NL East,161,59,102,0,0.366,0.387,5th of 5,32.5,,641,825,2320400,27.7,27.3,50,25,C.Guzman ,4.6,M.Acta (59-102),Washington Nationals
+2556,10,2007,Washington Nationals,NL East,162,73,89,0,0.451,0.431,4th of 5,16,,673,783,1943812,27.9,27.5,47,26,R.Zimmerman ,4.6,M.Acta (73-89),Washington Nationals
+2557,11,2006,Washington Nationals,NL East,162,71,91,0,0.438,0.429,5th of 5,26,,746,872,2153056,28.5,28.9,57,29,A.Soriano ,6.1,F
