@@ -113,13 +113,13 @@
 1042,2,2015,Houston Astros,AL West,162,86,76,0,0.531,0.575,2nd of 5,2,Lost LDS (3-2),729,618,2153585,26.6,29.4,46,24,D.Keuchel ,7.2,A.Hinch (86-76),Houston Astros
 1043,3,2014,Houston Astros,AL West,162,70,92,0,0.432,0.437,4th of 5,28,,629,723,1751829,25.7,27.9,48,28,J.Altuve ,6.1,B.Porter (59-79) and T.Lawless (11-13),Houston Astros
 1044,4,2013,Houston Astros,AL West,162,51,111,0,0.315,0.354,5th of 5,45,,610,848,1651883,26,27.2,50,26,J.Castro ,4.5,B.Porter (51-111),Houston Astros
-1045,5,2012,Houston Astros,NL Central,162,55,107,0,0.34,0.362,6th of 6,42,,583,794,1607733,26.6,27.2,50,26,L.Harrell ,3,B.Mills (39-82) and T.DeFrancesco (16-25),Houston Astros
-1046,6,2011,Houston Astros,NL Central,162,56,106,0,0.346,0.384,6th of 6,40,,615,796,2067016,28.2,27.2,47,23,C.Lee ,4,B.Mills (56-106),Houston Astros
-1047,7,2010,Houston Astros,NL Central,162,76,86,0,0.469,0.42,4th of 6,15,,611,729,2331490,29.5,29.6,48,25,M.Bourn ,5.5,B.Mills (76-86),Houston Astros
-1048,8,2009,Houston Astros,NL Central,162,74,88,0,0.457,0.418,5th of 6,17,,643,770,2521076,31.6,31.2,42,22,M.Bourn ,5,C.Cooper (70-79) and D.Clark (4-9),Houston Astros
-1049,9,2008,Houston Astros,NL Central,161,86,75,0,0.534,0.481,3rd of 6,11,,712,743,2779487,31.1,30.9,41,20,L.Berkman ,6.8,C.Cooper (86-75),Houston Astros
-1050,10,2007,Houston Astros,NL Central,162,73,89,0,0.451,0.447,4th of 6,12,,723,813,3020405,31.4,30.2,41,21,R.Oswalt ,6.6,P.Garner (58-73) and C.Cooper (15-16),Houston Astros
-1051,11,2006,Houston Astros,NL Central,162,82,80,0,0.506,0.51,2nd of 6,1.5,,735,719,3022763,30.5,29.8,39,19,R.Oswalt ,6.1,P.Garner (82-80),Houston Astros
+1045,5,2012,Houston Astros,AL West,162,55,107,0,0.34,0.362,6th of 6,42,,583,794,1607733,26.6,27.2,50,26,L.Harrell ,3,B.Mills (39-82) and T.DeFrancesco (16-25),Houston Astros
+1046,6,2011,Houston Astros,AL West,162,56,106,0,0.346,0.384,6th of 6,40,,615,796,2067016,28.2,27.2,47,23,C.Lee ,4,B.Mills (56-106),Houston Astros
+1047,7,2010,Houston Astros,AL West,162,76,86,0,0.469,0.42,4th of 6,15,,611,729,2331490,29.5,29.6,48,25,M.Bourn ,5.5,B.Mills (76-86),Houston Astros
+1048,8,2009,Houston Astros,AL West,162,74,88,0,0.457,0.418,5th of 6,17,,643,770,2521076,31.6,31.2,42,22,M.Bourn ,5,C.Cooper (70-79) and D.Clark (4-9),Houston Astros
+1049,9,2008,Houston Astros,AL West,161,86,75,0,0.534,0.481,3rd of 6,11,,712,743,2779487,31.1,30.9,41,20,L.Berkman ,6.8,C.Cooper (86-75),Houston Astros
+1050,10,2007,Houston Astros,AL West,162,73,89,0,0.451,0.447,4th of 6,12,,723,813,3020405,31.4,30.2,41,21,R.Oswalt ,6.6,P.Garner (58-73) and C.Cooper (15-16),Houston Astros
+1051,11,2006,Houston Astros,AL West,162,82,80,0,0.506,0.51,2nd of 6,1.5,,735,719,3022763,30.5,29.8,39,19,R.Oswalt ,6.1,P.Garner (82-80),Houston Astros
 1096,1,2016,Kansas City Royals,AL Central,162,81,81,0,0.5,0.476,3rd of 5,13.5,,675,712,2557712,28.6,29.9,36,21,D.Duffy ,4.2,N.Yost (81-81),Kansas City Royals
 1097,2,2015,Kansas City Royals,AL Central,162,95,67,0,0.586,0.555,1st of 5,--,Won WS (4-1),724,641,2708549,29.1,30,45,24,L.Cain ,7.2,N.Yost (95-67),Kansas City Royals
 1098,3,2014,Kansas City Royals,AL Central,162,89,73,0,0.549,0.519,2nd of 5,1,Lost WS (4-3),651,624,1956482,28.3,28.9,48,23,A.Gordon ,6.6,N.Yost (89-73),Kansas City Royals
@@ -158,12 +158,12 @@
 1335,3,2014,Miami Marlins,NL East,162,77,85,0,0.475,0.48,4th of 5,19,,645,674,1732283,27.4,26.4,45,25,G.Stanton ,6.5,M.Redmond (77-85),Miami Marlins
 1336,4,2013,Miami Marlins,NL East,162,62,100,0,0.383,0.396,5th of 5,34,,513,646,1586322,27.7,26,53,26,J.Fernandez ,6.7,M.Redmond (62-100),Miami Marlins
 1337,5,2012,Miami Marlins,NL East,162,69,93,0,0.426,0.422,5th of 5,29,,609,724,2219444,28.3,28.8,45,21,G.Stanton ,5.5,O.Guillen (69-93),Miami Marlins
-1338,6,2011,Florida Marlins,NL East,162,72,90,0,0.444,0.447,5th of 5,30,,625,702,1520562,27.4,28,44,22,G.Stanton ,4.1,"E.Rodriguez (32-39), B.Hyde (0-1) and J.McKeon (40-50)",Miami Marlins
-1339,7,2010,Florida Marlins,NL East,162,80,82,0,0.494,0.501,3rd of 5,17,,719,717,1524894,26.9,27.1,57,31,J.Johnson ,6.8,F.Gonzalez (34-36) and E.Rodriguez (46-46),Miami Marlins
-1340,8,2009,Florida Marlins,NL East,162,87,75,0,0.537,0.504,2nd of 5,6,,772,766,1464109,27,26.3,44,27,J.Johnson ,7.4,F.Gonzalez (87-75),Miami Marlins
-1341,9,2008,Florida Marlins,NL East,161,84,77,0,0.522,0.502,3rd of 5,7.5,,770,767,1335076,28,26.6,45,22,H.Ramirez ,6.7,F.Gonzalez (84-77),Miami Marlins
-1342,10,2007,Florida Marlins,NL East,162,71,91,0,0.438,0.445,5th of 5,18,,790,891,1370511,26.7,26.2,50,30,H.Ramirez ,4.3,F.Gonzalez (71-91),Miami Marlins
-1343,11,2006,Florida Marlins,NL East,162,78,84,0,0.481,0.492,4th of 5,19,,758,772,1164134,25.6,25.9,40,21,M.Cabrera ,5.8,J.Girardi (78-84),Miami Marlins
+1338,6,2011,Miami Marlins,NL East,162,72,90,0,0.444,0.447,5th of 5,30,,625,702,1520562,27.4,28,44,22,G.Stanton ,4.1,"E.Rodriguez (32-39), B.Hyde (0-1) and J.McKeon (40-50)",Miami Marlins
+1339,7,2010,Miami Marlins,NL East,162,80,82,0,0.494,0.501,3rd of 5,17,,719,717,1524894,26.9,27.1,57,31,J.Johnson ,6.8,F.Gonzalez (34-36) and E.Rodriguez (46-46),Miami Marlins
+1340,8,2009,Miami Marlins,NL East,162,87,75,0,0.537,0.504,2nd of 5,6,,772,766,1464109,27,26.3,44,27,J.Johnson ,7.4,F.Gonzalez (87-75),Miami Marlins
+1341,9,2008,Miami Marlins,NL East,161,84,77,0,0.522,0.502,3rd of 5,7.5,,770,767,1335076,28,26.6,45,22,H.Ramirez ,6.7,F.Gonzalez (84-77),Miami Marlins
+1342,10,2007,Miami Marlins,NL East,162,71,91,0,0.438,0.445,5th of 5,18,,790,891,1370511,26.7,26.2,50,30,H.Ramirez ,4.3,F.Gonzalez (71-91),Miami Marlins
+1343,11,2006,Miami Marlins,NL East,162,78,84,0,0.481,0.492,4th of 5,19,,758,772,1164134,25.6,25.9,40,21,M.Cabrera ,5.8,J.Girardi (78-84),Miami Marlins
 1357,1,2016,Milwaukee Brewers,NL Central,162,73,89,0,0.451,0.46,4th of 5,30.5,,671,733,2314614,27.5,28.1,50,27,R.Braun ,4.4,C.Counsell (73-89),Milwaukee Brewers
 1358,2,2015,Milwaukee Brewers,NL Central,162,68,94,0,0.42,0.446,4th of 5,32,,655,737,2542558,28.1,28.4,49,26,R.Braun ,3.8,R.Roenicke (7-18) and C.Counsell (61-76),Milwaukee Brewers
 1359,3,2014,Milwaukee Brewers,NL Central,162,82,80,0,0.506,0.495,3rd of 5,8,,650,657,2797384,28.8,29,40,21,J.Lucroy ,6.7,R.Roenicke (82-80),Milwaukee Brewers
@@ -294,8 +294,8 @@
 2438,7,2010,Tampa Bay Rays,AL East,162,96,66,0,0.593,0.596,1st of 5,--,Lost LDS (3-2),802,649,1864999,27.7,28,37,17,E.Longoria ,8.1,J.Maddon (96-66),Tampa Bay Rays
 2439,8,2009,Tampa Bay Rays,AL East,162,84,78,0,0.519,0.529,3rd of 5,19,,803,754,1874962,28,28.4,41,21,B.Zobrist ,8.6,J.Maddon (84-78),Tampa Bay Rays
 2440,9,2008,Tampa Bay Rays,AL East,162,97,65,0,0.599,0.565,1st of 5,--,Lost WS (4-1),774,671,1811986,27.2,27.5,46,21,C.Pena ,5.1,J.Maddon (97-65),Tampa Bay Rays
-2441,10,2007,Tampa Bay Devil Rays,AL East,162,66,96,0,0.407,0.415,5th of 5,30,,782,944,1387603,26.1,27,45,24,C.Pena ,7.2,J.Maddon (66-96),Tampa Bay Rays
-2442,11,2006,Tampa Bay Devil Rays,AL East,162,61,101,0,0.377,0.402,5th of 5,36,,689,856,1368950,27.3,27,49,25,C.Crawford ,4.5,J.Maddon (61-101),Tampa Bay Rays
+2441,10,2007,Tampa Bay Rays,AL East,162,66,96,0,0.407,0.415,5th of 5,30,,782,944,1387603,26.1,27,45,24,C.Pena ,7.2,J.Maddon (66-96),Tampa Bay Rays
+2442,11,2006,Tampa Bay Rays,AL East,162,61,101,0,0.377,0.402,5th of 5,36,,689,856,1368950,27.3,27,49,25,C.Crawford ,4.5,J.Maddon (61-101),Tampa Bay Rays
 2451,1,2016,Texas Rangers,AL West,162,95,67,0,0.586,0.505,1st of 5,--,Lost LDS (3-0),765,757,2710402,28.4,28.8,40,31,A.Beltre ,6.4,J.Banister (95-67),Texas Rangers
 2452,2,2015,Texas Rangers,AL West,162,88,74,0,0.543,0.511,1st of 5,--,Lost LDS (3-2),751,733,2491875,28.6,28.1,57,31,A.Beltre ,5.8,J.Banister (88-74),Texas Rangers
 2453,3,2014,Texas Rangers,AL West,162,67,95,0,0.414,0.412,5th of 5,31,,637,773,2718733,28.4,27.9,64,40,A.Beltre ,7,R.Washington (53-87) and T.Bogar (14-8),Texas Rangers
@@ -328,4 +328,4 @@
 2554,8,2009,Washington Nationals,NL East,162,59,103,0,0.364,0.406,5th of 5,34,,710,874,1817226,28.4,27.4,55,30,R.Zimmerman ,7.3,M.Acta (26-61) and J.Riggleman (33-42),Washington Nationals
 2555,9,2008,Washington Nationals,NL East,161,59,102,0,0.366,0.387,5th of 5,32.5,,641,825,2320400,27.7,27.3,50,25,C.Guzman ,4.6,M.Acta (59-102),Washington Nationals
 2556,10,2007,Washington Nationals,NL East,162,73,89,0,0.451,0.431,4th of 5,16,,673,783,1943812,27.9,27.5,47,26,R.Zimmerman ,4.6,M.Acta (73-89),Washington Nationals
-2557,11,2006,Washington Nationals,NL East,162,71,91,0,0.438,0.429,5th of 5,26,,746,872,2153056,28.5,28.9,57,29,A.Soriano ,6.1,F
+2557,11,2006,Washington Nationals,NL East,162,71,91,0,0.438,0.429,5th of 5,26,,746,872,2153056,28.5,28.9,57,29,A.Soriano ,6.1,F,
